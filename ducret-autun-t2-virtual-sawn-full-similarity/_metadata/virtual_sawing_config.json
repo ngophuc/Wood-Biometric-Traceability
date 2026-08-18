@@ -1,0 +1,1596 @@
+{
+  "aged_full_similarity_images": [
+    {
+      "mtime_ns": 1783767133476133584,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log1.jpg",
+      "size": 2795067
+    },
+    {
+      "mtime_ns": 1783767133478133597,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log11.jpg",
+      "size": 4223077
+    },
+    {
+      "mtime_ns": 1783767133480133610,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log12.jpg",
+      "size": 2370708
+    },
+    {
+      "mtime_ns": 1783767133482133624,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log13.jpg",
+      "size": 2637632
+    },
+    {
+      "mtime_ns": 1783767133484133637,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log14.jpg",
+      "size": 4046094
+    },
+    {
+      "mtime_ns": 1783767133486133650,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log15.jpg",
+      "size": 3030610
+    },
+    {
+      "mtime_ns": 1783767133487133657,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log16.jpg",
+      "size": 2966502
+    },
+    {
+      "mtime_ns": 1783767133489133670,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log17.jpg",
+      "size": 3115552
+    },
+    {
+      "mtime_ns": 1783767133491133684,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log18.jpg",
+      "size": 2905284
+    },
+    {
+      "mtime_ns": 1783767133492133690,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log19.jpg",
+      "size": 2609081
+    },
+    {
+      "mtime_ns": 1783767133494133704,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log2.jpg",
+      "size": 2348263
+    },
+    {
+      "mtime_ns": 1783767133495133710,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log20.jpg",
+      "size": 2252220
+    },
+    {
+      "mtime_ns": 1783767133497133724,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log21.jpg",
+      "size": 2819539
+    },
+    {
+      "mtime_ns": 1783767133498133730,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log22.jpg",
+      "size": 2653354
+    },
+    {
+      "mtime_ns": 1783767133500133744,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log23.jpg",
+      "size": 3477076
+    },
+    {
+      "mtime_ns": 1783767133502133757,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log24.jpg",
+      "size": 4298252
+    },
+    {
+      "mtime_ns": 1783767133504133770,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log25.jpg",
+      "size": 3862796
+    },
+    {
+      "mtime_ns": 1783767133506133784,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log26.jpg",
+      "size": 3803100
+    },
+    {
+      "mtime_ns": 1783767133508133797,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log27.jpg",
+      "size": 3556543
+    },
+    {
+      "mtime_ns": 1783767133510133811,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log28.jpg",
+      "size": 3255821
+    },
+    {
+      "mtime_ns": 1783767133512133824,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log29.jpg",
+      "size": 3403763
+    },
+    {
+      "mtime_ns": 1783767133514133837,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log3.jpg",
+      "size": 2524354
+    },
+    {
+      "mtime_ns": 1783767133515133844,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log30.jpg",
+      "size": 4236634
+    },
+    {
+      "mtime_ns": 1783767133517133857,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log31.jpg",
+      "size": 3102039
+    },
+    {
+      "mtime_ns": 1783767133519133870,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log32.jpg",
+      "size": 3529070
+    },
+    {
+      "mtime_ns": 1783767133521133884,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log33.jpg",
+      "size": 3609154
+    },
+    {
+      "mtime_ns": 1783767133523133897,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log34.jpg",
+      "size": 3290545
+    },
+    {
+      "mtime_ns": 1783767133525133911,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log35.jpg",
+      "size": 2914514
+    },
+    {
+      "mtime_ns": 1783767133527133924,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log36.jpg",
+      "size": 4089514
+    },
+    {
+      "mtime_ns": 1783767133529133937,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log37.jpg",
+      "size": 3572085
+    },
+    {
+      "mtime_ns": 1783767133531133950,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log38.jpg",
+      "size": 3263895
+    },
+    {
+      "mtime_ns": 1783767133532133957,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log39.jpg",
+      "size": 3135917
+    },
+    {
+      "mtime_ns": 1783767133533133964,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log4.jpg",
+      "size": 2777596
+    },
+    {
+      "mtime_ns": 1783767133535133977,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log40.jpg",
+      "size": 3308647
+    },
+    {
+      "mtime_ns": 1783767133536133984,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log41.jpg",
+      "size": 2326687
+    },
+    {
+      "mtime_ns": 1783767133538133997,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log42.jpg",
+      "size": 3745176
+    },
+    {
+      "mtime_ns": 1783767133539134004,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log43.jpg",
+      "size": 2417326
+    },
+    {
+      "mtime_ns": 1783767133541134017,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log44.jpg",
+      "size": 3277588
+    },
+    {
+      "mtime_ns": 1783767133543134030,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log45.jpg",
+      "size": 3917397
+    },
+    {
+      "mtime_ns": 1783767133545134044,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log46.jpg",
+      "size": 2958691
+    },
+    {
+      "mtime_ns": 1783767133546134051,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log47.jpg",
+      "size": 3973506
+    },
+    {
+      "mtime_ns": 1783767133548134064,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log48.jpg",
+      "size": 3317772
+    },
+    {
+      "mtime_ns": 1783767133550134077,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log49.jpg",
+      "size": 3795695
+    },
+    {
+      "mtime_ns": 1783767133551134084,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log5.jpg",
+      "size": 2505747
+    },
+    {
+      "mtime_ns": 1783767133553134097,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log50.jpg",
+      "size": 3327219
+    },
+    {
+      "mtime_ns": 1783767133555134111,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log51.jpg",
+      "size": 3840874
+    },
+    {
+      "mtime_ns": 1783767133557134124,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log52.jpg",
+      "size": 3265015
+    },
+    {
+      "mtime_ns": 1783767133558134131,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log53.jpg",
+      "size": 2952084
+    },
+    {
+      "mtime_ns": 1783767133560134144,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log54.jpg",
+      "size": 4294012
+    },
+    {
+      "mtime_ns": 1783767133562134157,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log55.jpg",
+      "size": 3526017
+    },
+    {
+      "mtime_ns": 1783767133563134164,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log56.jpg",
+      "size": 2695078
+    },
+    {
+      "mtime_ns": 1783767133565134177,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log57.jpg",
+      "size": 3367346
+    },
+    {
+      "mtime_ns": 1783767133566134184,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log58.jpg",
+      "size": 3029859
+    },
+    {
+      "mtime_ns": 1783767133567134191,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log59.jpg",
+      "size": 2435173
+    },
+    {
+      "mtime_ns": 1783767133569134204,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log6.jpg",
+      "size": 3801395
+    },
+    {
+      "mtime_ns": 1783767133570134211,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log60.jpg",
+      "size": 2365985
+    },
+    {
+      "mtime_ns": 1783767133571134217,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log61.jpg",
+      "size": 2819020
+    },
+    {
+      "mtime_ns": 1783767133572134224,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log62.jpg",
+      "size": 3438737
+    },
+    {
+      "mtime_ns": 1783767133574134238,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log63.jpg",
+      "size": 2411181
+    },
+    {
+      "mtime_ns": 1783767133575134244,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log64.jpg",
+      "size": 2573257
+    },
+    {
+      "mtime_ns": 1783767133576134251,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log65.jpg",
+      "size": 2785099
+    },
+    {
+      "mtime_ns": 1783767133577134257,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log69.jpg",
+      "size": 2600001
+    },
+    {
+      "mtime_ns": 1783767133578134264,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log7.jpg",
+      "size": 3062797
+    },
+    {
+      "mtime_ns": 1783767133580134277,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log70.jpg",
+      "size": 1832672
+    },
+    {
+      "mtime_ns": 1783767133580134277,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log71.jpg",
+      "size": 2138404
+    },
+    {
+      "mtime_ns": 1783767133582134291,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log72.jpg",
+      "size": 2986827
+    },
+    {
+      "mtime_ns": 1783767133583134297,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log73.jpg",
+      "size": 2071547
+    },
+    {
+      "mtime_ns": 1783767133584134304,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log74.jpg",
+      "size": 2569170
+    },
+    {
+      "mtime_ns": 1783767133585134311,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log75.jpg",
+      "size": 2567505
+    },
+    {
+      "mtime_ns": 1783767133586134318,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log76.jpg",
+      "size": 2092789
+    },
+    {
+      "mtime_ns": 1783767133587134324,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log77.jpg",
+      "size": 2485772
+    },
+    {
+      "mtime_ns": 1783767133588134331,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log78.jpg",
+      "size": 3029728
+    },
+    {
+      "mtime_ns": 1783767133589134338,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log79.jpg",
+      "size": 1989519
+    },
+    {
+      "mtime_ns": 1783767133591134351,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log8.jpg",
+      "size": 4062048
+    },
+    {
+      "mtime_ns": 1783767133592134357,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log80.jpg",
+      "size": 2528885
+    },
+    {
+      "mtime_ns": 1783767133593134364,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log81.jpg",
+      "size": 1820689
+    },
+    {
+      "mtime_ns": 1783767133594134371,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log82.jpg",
+      "size": 2218165
+    },
+    {
+      "mtime_ns": 1783767133595134377,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/seg/log9.jpg",
+      "size": 2138236
+    }
+  ],
+  "aged_full_similarity_masks": [
+    {
+      "mtime_ns": 1783767133460133477,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log1.png",
+      "size": 38004
+    },
+    {
+      "mtime_ns": 1783767133460133477,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log11.png",
+      "size": 37101
+    },
+    {
+      "mtime_ns": 1783767133461133484,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log12.png",
+      "size": 32725
+    },
+    {
+      "mtime_ns": 1783767133461133484,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log13.png",
+      "size": 35867
+    },
+    {
+      "mtime_ns": 1783767133461133484,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log14.png",
+      "size": 40478
+    },
+    {
+      "mtime_ns": 1783767133461133484,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log15.png",
+      "size": 38389
+    },
+    {
+      "mtime_ns": 1783767133462133490,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log16.png",
+      "size": 37284
+    },
+    {
+      "mtime_ns": 1783767133462133490,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log17.png",
+      "size": 36742
+    },
+    {
+      "mtime_ns": 1783767133468133530,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log18.png",
+      "size": 33302
+    },
+    {
+      "mtime_ns": 1783767133468133530,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log19.png",
+      "size": 36113
+    },
+    {
+      "mtime_ns": 1783767133468133530,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log2.png",
+      "size": 32917
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log20.png",
+      "size": 34093
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log21.png",
+      "size": 37032
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log22.png",
+      "size": 35398
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log23.png",
+      "size": 37173
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log24.png",
+      "size": 39503
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log25.png",
+      "size": 38710
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log26.png",
+      "size": 40007
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log27.png",
+      "size": 37546
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log28.png",
+      "size": 38130
+    },
+    {
+      "mtime_ns": 1783767133469133537,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log29.png",
+      "size": 36824
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log3.png",
+      "size": 34463
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log30.png",
+      "size": 35628
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log31.png",
+      "size": 38991
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log32.png",
+      "size": 39405
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log33.png",
+      "size": 41155
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log34.png",
+      "size": 37083
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log35.png",
+      "size": 35767
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log36.png",
+      "size": 40007
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log37.png",
+      "size": 39755
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log38.png",
+      "size": 40372
+    },
+    {
+      "mtime_ns": 1783767133470133544,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log39.png",
+      "size": 37027
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log4.png",
+      "size": 34869
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log40.png",
+      "size": 38770
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log41.png",
+      "size": 33352
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log42.png",
+      "size": 37579
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log43.png",
+      "size": 31675
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log44.png",
+      "size": 36489
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log45.png",
+      "size": 37667
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log46.png",
+      "size": 35865
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log47.png",
+      "size": 38890
+    },
+    {
+      "mtime_ns": 1783767133471133550,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log48.png",
+      "size": 34394
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log49.png",
+      "size": 36413
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log5.png",
+      "size": 34943
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log50.png",
+      "size": 37800
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log51.png",
+      "size": 38472
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log52.png",
+      "size": 38206
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log53.png",
+      "size": 34766
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log54.png",
+      "size": 35427
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log55.png",
+      "size": 33789
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log56.png",
+      "size": 32877
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log57.png",
+      "size": 39043
+    },
+    {
+      "mtime_ns": 1783767133472133557,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log58.png",
+      "size": 38924
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log59.png",
+      "size": 35111
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log6.png",
+      "size": 43551
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log60.png",
+      "size": 32436
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log61.png",
+      "size": 37008
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log62.png",
+      "size": 38615
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log63.png",
+      "size": 34822
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log64.png",
+      "size": 35289
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log65.png",
+      "size": 33435
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log69.png",
+      "size": 37436
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log7.png",
+      "size": 33380
+    },
+    {
+      "mtime_ns": 1783767133473133564,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log70.png",
+      "size": 30811
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log71.png",
+      "size": 31345
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log72.png",
+      "size": 35375
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log73.png",
+      "size": 32482
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log74.png",
+      "size": 38150
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log75.png",
+      "size": 33213
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log76.png",
+      "size": 30658
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log77.png",
+      "size": 35248
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log78.png",
+      "size": 39296
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log79.png",
+      "size": 32810
+    },
+    {
+      "mtime_ns": 1783767133474133570,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log8.png",
+      "size": 37079
+    },
+    {
+      "mtime_ns": 1783767133475133577,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log80.png",
+      "size": 34990
+    },
+    {
+      "mtime_ns": 1783767133475133577,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log81.png",
+      "size": 30979
+    },
+    {
+      "mtime_ns": 1783767133475133577,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log82.png",
+      "size": 31979
+    },
+    {
+      "mtime_ns": 1783767133475133577,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t2-cut-align-full-similarity/masks/log9.png",
+      "size": 31500
+    }
+  ],
+  "board_max_aspect": 4.0,
+  "board_max_frac": 0.4,
+  "board_min_aspect": 2.0,
+  "board_min_frac": 0.3,
+  "crop_geometry_source": "ducret-autun-t2-cut-align-full-similarity masks",
+  "fresh_t1_source_images": [
+    {
+      "mtime_ns": 1781923171301660582,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log1.jpg",
+      "size": 3316920
+    },
+    {
+      "mtime_ns": 1781923167622646762,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log10.jpg",
+      "size": 2505828
+    },
+    {
+      "mtime_ns": 1781923174190671434,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log11.jpg",
+      "size": 5275837
+    },
+    {
+      "mtime_ns": 1781923169002651946,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log12.jpg",
+      "size": 2823718
+    },
+    {
+      "mtime_ns": 1781923170296656807,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log13.jpg",
+      "size": 3081797
+    },
+    {
+      "mtime_ns": 1781923174101671099,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log14.jpg",
+      "size": 4766959
+    },
+    {
+      "mtime_ns": 1781923172790666175,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log15.jpg",
+      "size": 3905427
+    },
+    {
+      "mtime_ns": 1781923172204663974,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log16.jpg",
+      "size": 3588049
+    },
+    {
+      "mtime_ns": 1781923173691669559,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log17.jpg",
+      "size": 4342015
+    },
+    {
+      "mtime_ns": 1781923171414661006,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log18.jpg",
+      "size": 3335948
+    },
+    {
+      "mtime_ns": 1781923171430661066,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log19.jpg",
+      "size": 3239118
+    },
+    {
+      "mtime_ns": 1781923169090652277,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log2.jpg",
+      "size": 2719538
+    },
+    {
+      "mtime_ns": 1781923167808647461,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log20.jpg",
+      "size": 2376249
+    },
+    {
+      "mtime_ns": 1781923169180652615,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log21.jpg",
+      "size": 2855259
+    },
+    {
+      "mtime_ns": 1781923169160652540,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log22.jpg",
+      "size": 2814386
+    },
+    {
+      "mtime_ns": 1781923172874666490,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log23.jpg",
+      "size": 3865644
+    },
+    {
+      "mtime_ns": 1781923173962670577,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log24.jpg",
+      "size": 4625285
+    },
+    {
+      "mtime_ns": 1781923173981670649,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log25.jpg",
+      "size": 4536111
+    },
+    {
+      "mtime_ns": 1781923173774669871,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log26.jpg",
+      "size": 4333668
+    },
+    {
+      "mtime_ns": 1781923173762669826,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log27.jpg",
+      "size": 4210690
+    },
+    {
+      "mtime_ns": 1781923172941666742,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log28.jpg",
+      "size": 3758895
+    },
+    {
+      "mtime_ns": 1781923173445668635,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log29.jpg",
+      "size": 3955837
+    },
+    {
+      "mtime_ns": 1781923170461657426,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log3.jpg",
+      "size": 2901674
+    },
+    {
+      "mtime_ns": 1781923173991670686,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log30.jpg",
+      "size": 4698009
+    },
+    {
+      "mtime_ns": 1781923171594661682,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log31.jpg",
+      "size": 3273790
+    },
+    {
+      "mtime_ns": 1781923173463668703,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log32.jpg",
+      "size": 4024165
+    },
+    {
+      "mtime_ns": 1781923174009670754,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log33.jpg",
+      "size": 4505232
+    },
+    {
+      "mtime_ns": 1781923172453664909,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log34.jpg",
+      "size": 3642051
+    },
+    {
+      "mtime_ns": 1781923172423664796,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log35.jpg",
+      "size": 3480497
+    },
+    {
+      "mtime_ns": 1781923173810670006,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log36.jpg",
+      "size": 4245166
+    },
+    {
+      "mtime_ns": 1781923173040667114,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log37.jpg",
+      "size": 3688086
+    },
+    {
+      "mtime_ns": 1781923173021667042,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log38.jpg",
+      "size": 3827805
+    },
+    {
+      "mtime_ns": 1781923172481665014,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log39.jpg",
+      "size": 3549424
+    },
+    {
+      "mtime_ns": 1781923171705662099,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log4.jpg",
+      "size": 3199968
+    },
+    {
+      "mtime_ns": 1781923173072667234,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log40.jpg",
+      "size": 3824528
+    },
+    {
+      "mtime_ns": 1781923169619654264,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log41.jpg",
+      "size": 2772075
+    },
+    {
+      "mtime_ns": 1781923173523668928,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log42.jpg",
+      "size": 4074968
+    },
+    {
+      "mtime_ns": 1781923168280649234,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log43.jpg",
+      "size": 2581331
+    },
+    {
+      "mtime_ns": 1781923171812662501,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log44.jpg",
+      "size": 3253412
+    },
+    {
+      "mtime_ns": 1781923174022670802,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log45.jpg",
+      "size": 4629560
+    },
+    {
+      "mtime_ns": 1781923170885659019,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log46.jpg",
+      "size": 3144526
+    },
+    {
+      "mtime_ns": 1781923173844670134,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log47.jpg",
+      "size": 4380754
+    },
+    {
+      "mtime_ns": 1781923173138667482,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log48.jpg",
+      "size": 3800438
+    },
+    {
+      "mtime_ns": 1781923174113671144,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log49.jpg",
+      "size": 4806250
+    },
+    {
+      "mtime_ns": 1781923169751654760,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log5.jpg",
+      "size": 2652029
+    },
+    {
+      "mtime_ns": 1781923173121667418,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log50.jpg",
+      "size": 3772908
+    },
+    {
+      "mtime_ns": 1781923174163671332,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log51.jpg",
+      "size": 5130492
+    },
+    {
+      "mtime_ns": 1781923172640665611,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log52.jpg",
+      "size": 3538696
+    },
+    {
+      "mtime_ns": 1781923170996659436,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log53.jpg",
+      "size": 2946021
+    },
+    {
+      "mtime_ns": 1781923173172667610,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log54.jpg",
+      "size": 3694374
+    },
+    {
+      "mtime_ns": 1781923171952663027,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log55.jpg",
+      "size": 3317295
+    },
+    {
+      "mtime_ns": 1781923171118659894,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log56.jpg",
+      "size": 2900471
+    },
+    {
+      "mtime_ns": 1781923171988663162,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log57.jpg",
+      "size": 3377987
+    },
+    {
+      "mtime_ns": 1781923172004663222,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log58.jpg",
+      "size": 3244674
+    },
+    {
+      "mtime_ns": 1781923168612650481,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log59.jpg",
+      "size": 2462022
+    },
+    {
+      "mtime_ns": 1781923173611669259,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log6.jpg",
+      "size": 4021130
+    },
+    {
+      "mtime_ns": 1781923169989655653,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log60.jpg",
+      "size": 2720770
+    },
+    {
+      "mtime_ns": 1781923174067670971,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log61.jpg",
+      "size": 4581749
+    },
+    {
+      "mtime_ns": 1781923173219667786,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log62.jpg",
+      "size": 3677525
+    },
+    {
+      "mtime_ns": 1781923168759651033,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log63.jpg",
+      "size": 2599335
+    },
+    {
+      "mtime_ns": 1781923168808651217,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log64.jpg",
+      "size": 2528324
+    },
+    {
+      "mtime_ns": 1781923170087656022,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log65.jpg",
+      "size": 2720177
+    },
+    {
+      "mtime_ns": 1781923171188660157,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log69.jpg",
+      "size": 2905811
+    },
+    {
+      "mtime_ns": 1781923172072663478,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log7.jpg",
+      "size": 3400360
+    },
+    {
+      "mtime_ns": 1781923167317645617,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log70.jpg",
+      "size": 2351996
+    },
+    {
+      "mtime_ns": 1781923167351645744,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log71.jpg",
+      "size": 2312966
+    },
+    {
+      "mtime_ns": 1781923171233660326,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log72.jpg",
+      "size": 3113408
+    },
+    {
+      "mtime_ns": 1781923168873651462,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log73.jpg",
+      "size": 2386652
+    },
+    {
+      "mtime_ns": 1781923171219660274,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log74.jpg",
+      "size": 3098641
+    },
+    {
+      "mtime_ns": 1781923168903651574,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log75.jpg",
+      "size": 2601537
+    },
+    {
+      "mtime_ns": 1781923167432646049,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log76.jpg",
+      "size": 2315337
+    },
+    {
+      "mtime_ns": 1781923172091663549,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log77.jpg",
+      "size": 3179015
+    },
+    {
+      "mtime_ns": 1781923173272667985,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log78.jpg",
+      "size": 3718443
+    },
+    {
+      "mtime_ns": 1781923167484646244,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log79.jpg",
+      "size": 2113603
+    },
+    {
+      "mtime_ns": 1781923173911670386,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log8.jpg",
+      "size": 4441164
+    },
+    {
+      "mtime_ns": 1781923170224656536,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log80.jpg",
+      "size": 2807048
+    },
+    {
+      "mtime_ns": 1781923165947640471,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log81.jpg",
+      "size": 1925613
+    },
+    {
+      "mtime_ns": 1781923167567646556,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log82.jpg",
+      "size": 2348474
+    },
+    {
+      "mtime_ns": 1781923170693658298,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/seg/log9.jpg",
+      "size": 2865917
+    }
+  ],
+  "fresh_t1_source_masks": [
+    {
+      "mtime_ns": 1781923156049603291,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log1.png",
+      "size": 37846
+    },
+    {
+      "mtime_ns": 1781923156128603587,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log10.png",
+      "size": 40779
+    },
+    {
+      "mtime_ns": 1781923156060603332,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log11.png",
+      "size": 41672
+    },
+    {
+      "mtime_ns": 1781923156128603587,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log12.png",
+      "size": 35981
+    },
+    {
+      "mtime_ns": 1781923156062603339,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log13.png",
+      "size": 32468
+    },
+    {
+      "mtime_ns": 1781923156064603347,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log14.png",
+      "size": 40735
+    },
+    {
+      "mtime_ns": 1781923156129603591,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log15.png",
+      "size": 36184
+    },
+    {
+      "mtime_ns": 1781923156128603587,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log16.png",
+      "size": 36820
+    },
+    {
+      "mtime_ns": 1781923156129603591,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log17.png",
+      "size": 36529
+    },
+    {
+      "mtime_ns": 1781923156130603595,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log18.png",
+      "size": 35607
+    },
+    {
+      "mtime_ns": 1781923156131603598,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log19.png",
+      "size": 35945
+    },
+    {
+      "mtime_ns": 1781923156132603602,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log2.png",
+      "size": 35022
+    },
+    {
+      "mtime_ns": 1781923156132603602,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log20.png",
+      "size": 34554
+    },
+    {
+      "mtime_ns": 1781923156137603621,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log21.png",
+      "size": 37374
+    },
+    {
+      "mtime_ns": 1781923156214603910,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log22.png",
+      "size": 34610
+    },
+    {
+      "mtime_ns": 1781923156213603906,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log23.png",
+      "size": 39034
+    },
+    {
+      "mtime_ns": 1781923156213603906,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log24.png",
+      "size": 39672
+    },
+    {
+      "mtime_ns": 1781923156214603910,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log25.png",
+      "size": 37245
+    },
+    {
+      "mtime_ns": 1781923156215603914,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log26.png",
+      "size": 40186
+    },
+    {
+      "mtime_ns": 1781923156214603910,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log27.png",
+      "size": 41394
+    },
+    {
+      "mtime_ns": 1781923156219603929,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log28.png",
+      "size": 37681
+    },
+    {
+      "mtime_ns": 1781923156219603929,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log29.png",
+      "size": 35563
+    },
+    {
+      "mtime_ns": 1781923156220603933,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log3.png",
+      "size": 36650
+    },
+    {
+      "mtime_ns": 1781923156220603933,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log30.png",
+      "size": 37871
+    },
+    {
+      "mtime_ns": 1781923156221603937,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log31.png",
+      "size": 39315
+    },
+    {
+      "mtime_ns": 1781923156224603948,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log32.png",
+      "size": 41524
+    },
+    {
+      "mtime_ns": 1781923156221603937,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log33.png",
+      "size": 42810
+    },
+    {
+      "mtime_ns": 1781923156226603955,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log34.png",
+      "size": 38178
+    },
+    {
+      "mtime_ns": 1781923156224603948,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log35.png",
+      "size": 37380
+    },
+    {
+      "mtime_ns": 1781923156231603974,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log36.png",
+      "size": 40689
+    },
+    {
+      "mtime_ns": 1781923156224603948,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log37.png",
+      "size": 38670
+    },
+    {
+      "mtime_ns": 1781923156227603959,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log38.png",
+      "size": 39752
+    },
+    {
+      "mtime_ns": 1781923156230603970,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log39.png",
+      "size": 38729
+    },
+    {
+      "mtime_ns": 1781923156231603974,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log4.png",
+      "size": 33640
+    },
+    {
+      "mtime_ns": 1781923156232603978,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log40.png",
+      "size": 36429
+    },
+    {
+      "mtime_ns": 1781923156232603978,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log41.png",
+      "size": 33903
+    },
+    {
+      "mtime_ns": 1781923156233603982,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log42.png",
+      "size": 39001
+    },
+    {
+      "mtime_ns": 1781923156236603993,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log43.png",
+      "size": 32283
+    },
+    {
+      "mtime_ns": 1781923156234603986,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log44.png",
+      "size": 35720
+    },
+    {
+      "mtime_ns": 1781923156238604000,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log45.png",
+      "size": 37336
+    },
+    {
+      "mtime_ns": 1781923156237603997,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log46.png",
+      "size": 36544
+    },
+    {
+      "mtime_ns": 1781923156312604280,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log47.png",
+      "size": 41630
+    },
+    {
+      "mtime_ns": 1781923156236603993,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log48.png",
+      "size": 36593
+    },
+    {
+      "mtime_ns": 1781923156313604283,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log49.png",
+      "size": 38795
+    },
+    {
+      "mtime_ns": 1781923156313604283,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log5.png",
+      "size": 34903
+    },
+    {
+      "mtime_ns": 1781923156239604004,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log50.png",
+      "size": 36561
+    },
+    {
+      "mtime_ns": 1781923156314604287,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log51.png",
+      "size": 40106
+    },
+    {
+      "mtime_ns": 1781923156314604287,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log52.png",
+      "size": 35233
+    },
+    {
+      "mtime_ns": 1781923156316604295,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log53.png",
+      "size": 34296
+    },
+    {
+      "mtime_ns": 1781923156320604310,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log54.png",
+      "size": 35408
+    },
+    {
+      "mtime_ns": 1781923156318604302,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log55.png",
+      "size": 34232
+    },
+    {
+      "mtime_ns": 1781923156387604561,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log56.png",
+      "size": 33160
+    },
+    {
+      "mtime_ns": 1781923156390604572,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log57.png",
+      "size": 37495
+    },
+    {
+      "mtime_ns": 1781923156391604576,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log58.png",
+      "size": 36637
+    },
+    {
+      "mtime_ns": 1781923156387604561,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log59.png",
+      "size": 34173
+    },
+    {
+      "mtime_ns": 1781923156392604579,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log6.png",
+      "size": 45644
+    },
+    {
+      "mtime_ns": 1781923156391604576,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log60.png",
+      "size": 33032
+    },
+    {
+      "mtime_ns": 1781923156391604576,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log61.png",
+      "size": 41142
+    },
+    {
+      "mtime_ns": 1781923156392604579,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log62.png",
+      "size": 37607
+    },
+    {
+      "mtime_ns": 1781923156392604579,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log63.png",
+      "size": 32158
+    },
+    {
+      "mtime_ns": 1781923156392604579,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log64.png",
+      "size": 34420
+    },
+    {
+      "mtime_ns": 1781923156393604583,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log65.png",
+      "size": 33159
+    },
+    {
+      "mtime_ns": 1781923156393604583,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log69.png",
+      "size": 34061
+    },
+    {
+      "mtime_ns": 1781923156394604587,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log7.png",
+      "size": 33780
+    },
+    {
+      "mtime_ns": 1781923156394604587,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log70.png",
+      "size": 33786
+    },
+    {
+      "mtime_ns": 1781923156394604587,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log71.png",
+      "size": 33350
+    },
+    {
+      "mtime_ns": 1781923156395604591,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log72.png",
+      "size": 33338
+    },
+    {
+      "mtime_ns": 1781923156394604587,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log73.png",
+      "size": 32707
+    },
+    {
+      "mtime_ns": 1781923156407604635,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log74.png",
+      "size": 39448
+    },
+    {
+      "mtime_ns": 1781923156395604591,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log75.png",
+      "size": 34367
+    },
+    {
+      "mtime_ns": 1781923156408604639,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log76.png",
+      "size": 32961
+    },
+    {
+      "mtime_ns": 1781923156408604639,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log77.png",
+      "size": 33840
+    },
+    {
+      "mtime_ns": 1781923156407604635,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log78.png",
+      "size": 35390
+    },
+    {
+      "mtime_ns": 1781923156408604639,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log79.png",
+      "size": 33072
+    },
+    {
+      "mtime_ns": 1781923156408604639,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log8.png",
+      "size": 39211
+    },
+    {
+      "mtime_ns": 1781923156407604635,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log80.png",
+      "size": 35487
+    },
+    {
+      "mtime_ns": 1781923156469604869,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log81.png",
+      "size": 31254
+    },
+    {
+      "mtime_ns": 1781923156492604955,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log82.png",
+      "size": 32230
+    },
+    {
+      "mtime_ns": 1781923156409604643,
+      "path": "/home/sshirodk/Documents/Biomtrace-new/matching/spatial/ducret-autun-t1-orig/masks/log9.png",
+      "size": 31946
+    }
+  ],
+  "num_boards_per_log": 10,
+  "query_texture_source": "ducret-autun-t2-cut-align-full-similarity seg",
+  "retrieval_and_localization_source": "ducret-autun-t1-orig",
+  "rotations": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "seed": 20260711,
+  "version": 5
+}

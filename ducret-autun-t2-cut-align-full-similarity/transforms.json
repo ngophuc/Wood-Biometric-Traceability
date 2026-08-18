@@ -1,0 +1,2108 @@
+{
+  "log1.jpg": {
+    "target": "ducret-autun-t1/log1.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0397145243617079,
+        -0.045119514190432836,
+        515.9668971496301
+      ],
+      [
+        0.045119514190432836,
+        1.0397145243617079,
+        -470.8850069016937
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -2.484852045648301,
+    "scale_applied": 1.0406930684546107,
+    "translation_x_applied": 515.9668971496301,
+    "translation_y_applied": -470.8850069016937,
+    "matches": 1225,
+    "inliers": 319,
+    "inlier_ratio": 0.26040816326530614
+  },
+  "log11.jpg": {
+    "target": "ducret-autun-t1/log11.jpg",
+    "source_to_target_matrix": [
+      [
+        1.301246151682234,
+        -0.02597722027987684,
+        -503.5081194763434
+      ],
+      [
+        0.02597722027987684,
+        1.301246151682234,
+        -558.2447722335573
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -1.1436632541493148,
+    "scale_applied": 1.3015054219023803,
+    "translation_x_applied": -503.5081194763434,
+    "translation_y_applied": -558.2447722335573,
+    "matches": 1270,
+    "inliers": 231,
+    "inlier_ratio": 0.18188976377952756
+  },
+  "log12.jpg": {
+    "target": "ducret-autun-t1/log12.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0749357017929326,
+        0.013692894212756141,
+        20.799961756208177
+      ],
+      [
+        -0.013692894212756141,
+        1.0749357017929326,
+        385.1884062237234
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.729813528132196,
+    "scale_applied": 1.075022910612135,
+    "translation_x_applied": 20.799961756208177,
+    "translation_y_applied": 385.1884062237234,
+    "matches": 1355,
+    "inliers": 677,
+    "inlier_ratio": 0.4996309963099631
+  },
+  "log13.jpg": {
+    "target": "ducret-autun-t1/log13.jpg",
+    "source_to_target_matrix": [
+      [
+        0.024146591697710232,
+        -0.9480399314616479,
+        4561.70296742916
+      ],
+      [
+        0.9480399314616479,
+        0.024146591697710232,
+        -805.0904993237446
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.54099105316875,
+    "scale_applied": 0.9483473886379515,
+    "translation_x_applied": 4561.70296742916,
+    "translation_y_applied": -805.0904993237446,
+    "matches": 1460,
+    "inliers": 405,
+    "inlier_ratio": 0.2773972602739726
+  },
+  "log14.jpg": {
+    "target": "ducret-autun-t1/log14.jpg",
+    "source_to_target_matrix": [
+      [
+        0.0019107547005904563,
+        -1.0460642956535766,
+        4508.047683306588
+      ],
+      [
+        1.0460642956535766,
+        0.0019107547005904563,
+        -983.5941450384917
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -89.89534289744407,
+    "scale_applied": 1.0460660407568632,
+    "translation_x_applied": 4508.047683306588,
+    "translation_y_applied": -983.5941450384917,
+    "matches": 1465,
+    "inliers": 457,
+    "inlier_ratio": 0.3119453924914676
+  },
+  "log15.jpg": {
+    "target": "ducret-autun-t1/log15.jpg",
+    "source_to_target_matrix": [
+      [
+        0.006378855486028662,
+        0.9809449683091755,
+        1037.4888697565955
+      ],
+      [
+        -0.9809449683091755,
+        0.006378855486028669,
+        4178.940103445853
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 89.627424210499,
+    "scale_applied": 0.9809657081918822,
+    "translation_x_applied": 1037.4888697565955,
+    "translation_y_applied": 4178.940103445853,
+    "matches": 1350,
+    "inliers": 276,
+    "inlier_ratio": 0.20444444444444446
+  },
+  "log16.jpg": {
+    "target": "ducret-autun-t1/log16.jpg",
+    "source_to_target_matrix": [
+      [
+        0.9994453022793408,
+        0.01841373873028629,
+        218.36238949739857
+      ],
+      [
+        -0.01841373873028629,
+        0.9994453022793408,
+        222.5744745104712
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 1.0554956457749058,
+    "scale_applied": 0.9996149148658549,
+    "translation_x_applied": 218.36238949739857,
+    "translation_y_applied": 222.5744745104712,
+    "matches": 1407,
+    "inliers": 509,
+    "inlier_ratio": 0.3617626154939588
+  },
+  "log17.jpg": {
+    "target": "ducret-autun-t1/log17.jpg",
+    "source_to_target_matrix": [
+      [
+        0.011054024771706843,
+        1.0826946084005855,
+        1036.7042666763275
+      ],
+      [
+        -1.0826946084005855,
+        0.011054024771706843,
+        4467.849252987242
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 89.4150456130227,
+    "scale_applied": 1.082751036260576,
+    "translation_x_applied": 1036.7042666763275,
+    "translation_y_applied": 4467.849252987242,
+    "matches": 1249,
+    "inliers": 409,
+    "inlier_ratio": 0.32746196957566054
+  },
+  "log18.jpg": {
+    "target": "ducret-autun-t1/log18.jpg",
+    "source_to_target_matrix": [
+      [
+        0.0134283429669718,
+        1.005038051786704,
+        1179.9742101031895
+      ],
+      [
+        -1.005038051786704,
+        0.0134283429669718,
+        4467.849261277965
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 89.23451495347773,
+    "scale_applied": 1.0051277560260945,
+    "translation_x_applied": 1179.9742101031895,
+    "translation_y_applied": 4467.849261277965,
+    "matches": 1403,
+    "inliers": 438,
+    "inlier_ratio": 0.3121881682109765
+  },
+  "log19.jpg": {
+    "target": "ducret-autun-t1/log19.jpg",
+    "source_to_target_matrix": [
+      [
+        1.033876267530699,
+        -0.002246419299373736,
+        -527.5553684125128
+      ],
+      [
+        0.002246419299373736,
+        1.033876267530699,
+        80.88362883428908
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -0.12449279121838555,
+    "scale_applied": 1.033878708051809,
+    "translation_x_applied": -527.5553684125128,
+    "translation_y_applied": 80.88362883428908,
+    "matches": 1240,
+    "inliers": 319,
+    "inlier_ratio": 0.25725806451612904
+  },
+  "log2.jpg": {
+    "target": "ducret-autun-t1/log2.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0322611312337873,
+        0.019960443719577607,
+        389.7429059533397
+      ],
+      [
+        -0.019960443719577607,
+        1.0322611312337873,
+        147.40819322981315
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 1.1077688009424138,
+    "scale_applied": 1.0324540969793963,
+    "translation_x_applied": 389.7429059533397,
+    "translation_y_applied": 147.40819322981315,
+    "matches": 1453,
+    "inliers": 437,
+    "inlier_ratio": 0.3007570543702684
+  },
+  "log20.jpg": {
+    "target": "ducret-autun-t1/log20.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.006165929464041985,
+        -0.875041000889326,
+        4504.603591082417
+      ],
+      [
+        0.875041000889326,
+        -0.006165929464041985,
+        -538.2371864524926
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -90.40372495435535,
+    "scale_applied": 0.8750627245652445,
+    "translation_x_applied": 4504.603591082417,
+    "translation_y_applied": -538.2371864524926,
+    "matches": 1356,
+    "inliers": 430,
+    "inlier_ratio": 0.31710914454277284
+  },
+  "log21.jpg": {
+    "target": "ducret-autun-t1/log21.jpg",
+    "source_to_target_matrix": [
+      [
+        0.8078736016415352,
+        -0.025050373708926803,
+        727.7195917923125
+      ],
+      [
+        0.02505037370892682,
+        0.8078736016415352,
+        565.4437277344164
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -1.7760463415542704,
+    "scale_applied": 0.8082618866754901,
+    "translation_x_applied": 727.7195917923125,
+    "translation_y_applied": 565.4437277344164,
+    "matches": 1265,
+    "inliers": 236,
+    "inlier_ratio": 0.1865612648221344
+  },
+  "log22.jpg": {
+    "target": "ducret-autun-t1/log22.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.029446419488588328,
+        -0.8581421111371366,
+        4294.912045829083
+      ],
+      [
+        0.8581421111371366,
+        -0.029446419488588328,
+        -220.77098711945496
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -91.96528502370205,
+    "scale_applied": 0.8586471769752694,
+    "translation_x_applied": 4294.912045829083,
+    "translation_y_applied": -220.77098711945496,
+    "matches": 1320,
+    "inliers": 356,
+    "inlier_ratio": 0.2696969696969697
+  },
+  "log23.jpg": {
+    "target": "ducret-autun-t1/log23.jpg",
+    "source_to_target_matrix": [
+      [
+        0.9266857794799781,
+        0.00894389180208745,
+        283.6833803408281
+      ],
+      [
+        -0.008943891802087421,
+        0.9266857794799781,
+        104.24068635802132
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.5529720572379363,
+    "scale_applied": 0.9267289393835622,
+    "translation_x_applied": 283.6833803408281,
+    "translation_y_applied": 104.24068635802132,
+    "matches": 1272,
+    "inliers": 475,
+    "inlier_ratio": 0.37342767295597484
+  },
+  "log24.jpg": {
+    "target": "ducret-autun-t1/log24.jpg",
+    "source_to_target_matrix": [
+      [
+        1.1813865614400467,
+        0.007173542621395333,
+        -466.5350920443793
+      ],
+      [
+        -0.007173542621395333,
+        1.1813865614400467,
+        -327.8755387040537
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.3479036230926697,
+    "scale_applied": 1.1814083406108484,
+    "translation_x_applied": -466.5350920443793,
+    "translation_y_applied": -327.8755387040537,
+    "matches": 1315,
+    "inliers": 330,
+    "inlier_ratio": 0.2509505703422053
+  },
+  "log25.jpg": {
+    "target": "ducret-autun-t1/log25.jpg",
+    "source_to_target_matrix": [
+      [
+        1.1780676138634003,
+        -0.009551018422435843,
+        -402.04222489772474
+      ],
+      [
+        0.009551018422435843,
+        1.1780676138634003,
+        -369.23458859918105
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -0.464507342315663,
+    "scale_applied": 1.1781063300002728,
+    "translation_x_applied": -402.04222489772474,
+    "translation_y_applied": -369.23458859918105,
+    "matches": 1398,
+    "inliers": 636,
+    "inlier_ratio": 0.45493562231759654
+  },
+  "log26.jpg": {
+    "target": "ducret-autun-t1/log26.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.04480636104272101,
+        -1.036177239383451,
+        4724.118690554024
+      ],
+      [
+        1.036177239383451,
+        -0.04480636104272101,
+        -928.9452900359436
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -92.47604073831094,
+    "scale_applied": 1.0371455449483453,
+    "translation_x_applied": 4724.118690554024,
+    "translation_y_applied": -928.9452900359436,
+    "matches": 1407,
+    "inliers": 671,
+    "inlier_ratio": 0.47690120824449184
+  },
+  "log27.jpg": {
+    "target": "ducret-autun-t1/log27.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.08300960675805247,
+        -1.2386761060511902,
+        5099.552181593205
+      ],
+      [
+        1.2386761060511902,
+        -0.08300960675805247,
+        -1122.2200708527942
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -93.83393154631953,
+    "scale_applied": 1.2414544254688795,
+    "translation_x_applied": 5099.552181593205,
+    "translation_y_applied": -1122.2200708527942,
+    "matches": 1227,
+    "inliers": 258,
+    "inlier_ratio": 0.21026894865525672
+  },
+  "log28.jpg": {
+    "target": "ducret-autun-t1/log28.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.03297233765468052,
+        -1.017032206141297,
+        3941.5248809235695
+      ],
+      [
+        1.017032206141297,
+        -0.0329723376546805,
+        -689.9567471751247
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -91.85688743291975,
+    "scale_applied": 1.017566549852661,
+    "translation_x_applied": 3941.5248809235695,
+    "translation_y_applied": -689.9567471751247,
+    "matches": 1410,
+    "inliers": 536,
+    "inlier_ratio": 0.3801418439716312
+  },
+  "log29.jpg": {
+    "target": "ducret-autun-t1/log29.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.018460760924178,
+        -1.001972127417172,
+        4000.7483669710896
+      ],
+      [
+        1.001972127417172,
+        -0.018460760924178,
+        -505.08672201720515
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -91.05552240248676,
+    "scale_applied": 1.002142177445293,
+    "translation_x_applied": 4000.7483669710896,
+    "translation_y_applied": -505.08672201720515,
+    "matches": 1398,
+    "inliers": 606,
+    "inlier_ratio": 0.4334763948497854
+  },
+  "log3.jpg": {
+    "target": "ducret-autun-t1/log3.jpg",
+    "source_to_target_matrix": [
+      [
+        0.03162710984659091,
+        -1.0997538854031823,
+        4064.0683410134534
+      ],
+      [
+        1.0997538854031823,
+        0.03162710984659091,
+        -356.76041299044084
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.35272180186544,
+    "scale_applied": 1.1002085631991074,
+    "translation_x_applied": 4064.0683410134534,
+    "translation_y_applied": -356.76041299044084,
+    "matches": 1333,
+    "inliers": 292,
+    "inlier_ratio": 0.21905476369092272
+  },
+  "log30.jpg": {
+    "target": "ducret-autun-t1/log30.jpg",
+    "source_to_target_matrix": [
+      [
+        1.097166999142468,
+        0.011923035092407611,
+        -144.7103302782158
+      ],
+      [
+        -0.011923035092407611,
+        1.097166999142468,
+        -77.27318637545159
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.6226150628275441,
+    "scale_applied": 1.097231781700249,
+    "translation_x_applied": -144.7103302782158,
+    "translation_y_applied": -77.27318637545159,
+    "matches": 1322,
+    "inliers": 717,
+    "inlier_ratio": 0.5423600605143721
+  },
+  "log31.jpg": {
+    "target": "ducret-autun-t1/log31.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.02080617455091092,
+        -1.0898862668046145,
+        4021.601466475937
+      ],
+      [
+        1.0898862668046145,
+        -0.02080617455091092,
+        -752.9824617301956
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -91.09365650509976,
+    "scale_applied": 1.0900848459953667,
+    "translation_x_applied": 4021.601466475937,
+    "translation_y_applied": -752.9824617301956,
+    "matches": 1377,
+    "inliers": 671,
+    "inlier_ratio": 0.48729121278140886
+  },
+  "log32.jpg": {
+    "target": "ducret-autun-t1/log32.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.009474041358564802,
+        -1.0837266673783907,
+        4533.5229665407605
+      ],
+      [
+        1.0837266673783907,
+        -0.009474041358564802,
+        -1327.000438830791
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -90.50087238183457,
+    "scale_applied": 1.0837680780714742,
+    "translation_x_applied": 4533.5229665407605,
+    "translation_y_applied": -1327.000438830791,
+    "matches": 1265,
+    "inliers": 216,
+    "inlier_ratio": 0.1707509881422925
+  },
+  "log33.jpg": {
+    "target": "ducret-autun-t1/log33.jpg",
+    "source_to_target_matrix": [
+      [
+        1.2769897175124152,
+        0.002092870057665133,
+        -874.6182400260691
+      ],
+      [
+        -0.002092870057665133,
+        1.2769897175124152,
+        -674.3318670299411
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.09390248986858722,
+    "scale_applied": 1.276991432523146,
+    "translation_x_applied": -874.6182400260691,
+    "translation_y_applied": -674.3318670299411,
+    "matches": 1346,
+    "inliers": 371,
+    "inlier_ratio": 0.27563150074294207
+  },
+  "log34.jpg": {
+    "target": "ducret-autun-t1/log34.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0435224211478311,
+        0.0038629194012855844,
+        336.3912821807244
+      ],
+      [
+        -0.0038629194012855844,
+        1.0435224211478311,
+        133.4799325298036
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.21209699267663304,
+    "scale_applied": 1.043529571015854,
+    "translation_x_applied": 336.3912821807244,
+    "translation_y_applied": 133.4799325298036,
+    "matches": 1079,
+    "inliers": 206,
+    "inlier_ratio": 0.19091751621872105
+  },
+  "log35.jpg": {
+    "target": "ducret-autun-t1/log35.jpg",
+    "source_to_target_matrix": [
+      [
+        1.019579826937562,
+        -0.05218600447712287,
+        -901.9435864156194
+      ],
+      [
+        0.05218600447712287,
+        1.019579826937562,
+        -83.88050999631332
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -2.9300607354496604,
+    "scale_applied": 1.0209144932663632,
+    "translation_x_applied": -901.9435864156194,
+    "translation_y_applied": -83.88050999631332,
+    "matches": 1411,
+    "inliers": 447,
+    "inlier_ratio": 0.31679659815733524
+  },
+  "log36.jpg": {
+    "target": "ducret-autun-t1/log36.jpg",
+    "source_to_target_matrix": [
+      [
+        1.1827969366847093,
+        -0.0397712813014796,
+        -203.90048760836362
+      ],
+      [
+        0.0397712813014796,
+        1.1827969366847093,
+        -54.08353970821281
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -1.925832136017188,
+    "scale_applied": 1.1834653979931538,
+    "translation_x_applied": -203.90048760836362,
+    "translation_y_applied": -54.08353970821281,
+    "matches": 1092,
+    "inliers": 202,
+    "inlier_ratio": 0.184981684981685
+  },
+  "log37.jpg": {
+    "target": "ducret-autun-t1/log37.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.10099620966775862,
+        -1.0359958193899348,
+        4530.58335317572
+      ],
+      [
+        1.0359958193899348,
+        -0.10099620966775862,
+        -176.18902667579755
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -95.56800391480655,
+    "scale_applied": 1.0409070910319884,
+    "translation_x_applied": 4530.58335317572,
+    "translation_y_applied": -176.18902667579755,
+    "matches": 1307,
+    "inliers": 350,
+    "inlier_ratio": 0.26778882938026016
+  },
+  "log38.jpg": {
+    "target": "ducret-autun-t1/log38.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0683112988969572,
+        -0.10688174452666659,
+        472.4624814243
+      ],
+      [
+        0.10688174452666659,
+        1.0683112988969572,
+        -606.2973130471778
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -5.713280817289595,
+    "scale_applied": 1.0736446053811137,
+    "translation_x_applied": 472.4624814243,
+    "translation_y_applied": -606.2973130471778,
+    "matches": 1300,
+    "inliers": 326,
+    "inlier_ratio": 0.25076923076923074
+  },
+  "log39.jpg": {
+    "target": "ducret-autun-t1/log39.jpg",
+    "source_to_target_matrix": [
+      [
+        1.2068795665210559,
+        -0.04949241145708846,
+        -204.90354468587884
+      ],
+      [
+        0.04949241145708846,
+        1.2068795665210559,
+        -702.0597607808027
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -2.34830248980103,
+    "scale_applied": 1.2078939468669796,
+    "translation_x_applied": -204.90354468587884,
+    "translation_y_applied": -702.0597607808027,
+    "matches": 1188,
+    "inliers": 262,
+    "inlier_ratio": 0.22053872053872053
+  },
+  "log4.jpg": {
+    "target": "ducret-autun-t1/log4.jpg",
+    "source_to_target_matrix": [
+      [
+        0.031176392028094402,
+        -1.0341125760020382,
+        3843.9971089890187
+      ],
+      [
+        1.0341125760020382,
+        0.031176392028094402,
+        -736.5971026807856
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.27317176283684,
+    "scale_applied": 1.0345824216878328,
+    "translation_x_applied": 3843.9971089890187,
+    "translation_y_applied": -736.5971026807856,
+    "matches": 1249,
+    "inliers": 371,
+    "inlier_ratio": 0.29703763010408324
+  },
+  "log40.jpg": {
+    "target": "ducret-autun-t1/log40.jpg",
+    "source_to_target_matrix": [
+      [
+        0.9751984667755579,
+        -0.10160107515626708,
+        -7.699853605677163
+      ],
+      [
+        0.10160107515626708,
+        0.9751984667755579,
+        -196.15729217823718
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -5.9479035298856635,
+    "scale_applied": 0.9804768370921917,
+    "translation_x_applied": -7.699853605677163,
+    "translation_y_applied": -196.15729217823718,
+    "matches": 1338,
+    "inliers": 659,
+    "inlier_ratio": 0.49252615844544095
+  },
+  "log41.jpg": {
+    "target": "ducret-autun-t1/log41.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0093101972838183,
+        -0.06094199558251821,
+        497.95132091810365
+      ],
+      [
+        0.06094199558251817,
+        1.0093101972838183,
+        37.95517834916518
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -3.455315447589593,
+    "scale_applied": 1.011148357644258,
+    "translation_x_applied": 497.95132091810365,
+    "translation_y_applied": 37.95517834916518,
+    "matches": 1213,
+    "inliers": 237,
+    "inlier_ratio": 0.1953833470733718
+  },
+  "log42.jpg": {
+    "target": "ducret-autun-t1/log42.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0332253031436063,
+        -0.03975920578373129,
+        -744.6435773032067
+      ],
+      [
+        0.03975920578373131,
+        1.0332253031436063,
+        -222.8398350420971
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -2.2036929118451427,
+    "scale_applied": 1.033990000677352,
+    "translation_x_applied": -744.6435773032067,
+    "translation_y_applied": -222.8398350420971,
+    "matches": 1312,
+    "inliers": 205,
+    "inlier_ratio": 0.15625
+  },
+  "log43.jpg": {
+    "target": "ducret-autun-t1/log43.jpg",
+    "source_to_target_matrix": [
+      [
+        0.9390585403192416,
+        0.0032491319408853936,
+        759.9389242637808
+      ],
+      [
+        -0.0032491319408853936,
+        0.9390585403192416,
+        13.450395383239538
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.1982419587568235,
+    "scale_applied": 0.9390641612823237,
+    "translation_x_applied": 759.9389242637808,
+    "translation_y_applied": 13.450395383239538,
+    "matches": 1374,
+    "inliers": 521,
+    "inlier_ratio": 0.3791848617176128
+  },
+  "log44.jpg": {
+    "target": "ducret-autun-t1/log44.jpg",
+    "source_to_target_matrix": [
+      [
+        0.0004037412166645543,
+        -0.8680250813702646,
+        4413.949785892526
+      ],
+      [
+        0.8680250813702646,
+        0.0004037412166645582,
+        -537.5741789412041
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -89.9733502331227,
+    "scale_applied": 0.8680251752655705,
+    "translation_x_applied": 4413.949785892526,
+    "translation_y_applied": -537.5741789412041,
+    "matches": 1329,
+    "inliers": 285,
+    "inlier_ratio": 0.2144469525959368
+  },
+  "log45.jpg": {
+    "target": "ducret-autun-t1/log45.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.022757100489709775,
+        -1.2911526068818127,
+        4301.612221286824
+      ],
+      [
+        1.2911526068818127,
+        -0.02275710048970983,
+        -1553.436599104437
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -91.00975733663762,
+    "scale_applied": 1.2913531429784804,
+    "translation_x_applied": 4301.612221286824,
+    "translation_y_applied": -1553.436599104437,
+    "matches": 1306,
+    "inliers": 274,
+    "inlier_ratio": 0.20980091883614088
+  },
+  "log46.jpg": {
+    "target": "ducret-autun-t1/log46.jpg",
+    "source_to_target_matrix": [
+      [
+        0.016226404191134493,
+        -0.9092048753297045,
+        3462.1152626520643
+      ],
+      [
+        0.9092048753297045,
+        0.016226404191134493,
+        -773.3706968553764
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.97756180742161,
+    "scale_applied": 0.9093496585562,
+    "translation_x_applied": 3462.1152626520643,
+    "translation_y_applied": -773.3706968553764,
+    "matches": 1449,
+    "inliers": 376,
+    "inlier_ratio": 0.25948930296756384
+  },
+  "log47.jpg": {
+    "target": "ducret-autun-t1/log47.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0520150531806407,
+        0.01300288822918259,
+        -773.4654682284656
+      ],
+      [
+        -0.01300288822918259,
+        1.0520150531806407,
+        -109.18751679507022
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.7081388046840589,
+    "scale_applied": 1.0520954078509073,
+    "translation_x_applied": -773.4654682284656,
+    "translation_y_applied": -109.18751679507022,
+    "matches": 1177,
+    "inliers": 267,
+    "inlier_ratio": 0.2268479184367035
+  },
+  "log48.jpg": {
+    "target": "ducret-autun-t1/log48.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.0015746690756879365,
+        -1.1613025576977904,
+        4884.714751423171
+      ],
+      [
+        1.1613025576977904,
+        -0.0015746690756879098,
+        -1147.633480247695
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -90.0776902076678,
+    "scale_applied": 1.161303625284158,
+    "translation_x_applied": 4884.714751423171,
+    "translation_y_applied": -1147.633480247695,
+    "matches": 1405,
+    "inliers": 369,
+    "inlier_ratio": 0.26263345195729537
+  },
+  "log49.jpg": {
+    "target": "ducret-autun-t1/log49.jpg",
+    "source_to_target_matrix": [
+      [
+        0.00677289622183487,
+        -1.1273698700386987,
+        4674.512399783296
+      ],
+      [
+        1.127369870038699,
+        0.006772896221834848,
+        -1167.1309025893179
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -89.65578847692294,
+    "scale_applied": 1.1273902146081916,
+    "translation_x_applied": 4674.512399783296,
+    "translation_y_applied": -1167.1309025893179,
+    "matches": 1380,
+    "inliers": 375,
+    "inlier_ratio": 0.2717391304347826
+  },
+  "log5.jpg": {
+    "target": "ducret-autun-t1/log5.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.03680883157742197,
+        -1.030488155170436,
+        4871.952008159518
+      ],
+      [
+        1.030488155170436,
+        -0.036808831577422006,
+        -476.9314261897798
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -92.04572407453479,
+    "scale_applied": 1.0311453476734807,
+    "translation_x_applied": 4871.952008159518,
+    "translation_y_applied": -476.9314261897798,
+    "matches": 1363,
+    "inliers": 324,
+    "inlier_ratio": 0.23771093176815847
+  },
+  "log50.jpg": {
+    "target": "ducret-autun-t1/log50.jpg",
+    "source_to_target_matrix": [
+      [
+        1.045748913270637,
+        0.01217607600995161,
+        -798.2721869149731
+      ],
+      [
+        -0.01217607600995161,
+        1.045748913270637,
+        -162.10666816242679
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.6670877054070053,
+    "scale_applied": 1.0458197963481655,
+    "translation_x_applied": -798.2721869149731,
+    "translation_y_applied": -162.10666816242679,
+    "matches": 1375,
+    "inliers": 411,
+    "inlier_ratio": 0.2989090909090909
+  },
+  "log51.jpg": {
+    "target": "ducret-autun-t1/log51.jpg",
+    "source_to_target_matrix": [
+      [
+        0.02948992491137888,
+        -1.2746492457631589,
+        4145.863300683834
+      ],
+      [
+        1.2746492457631589,
+        0.029489924911378883,
+        -1818.9966170658547
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.67465746350608,
+    "scale_applied": 1.274990335412731,
+    "translation_x_applied": 4145.863300683834,
+    "translation_y_applied": -1818.9966170658547,
+    "matches": 1196,
+    "inliers": 209,
+    "inlier_ratio": 0.17474916387959866
+  },
+  "log52.jpg": {
+    "target": "ducret-autun-t1/log52.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0211692615257073,
+        0.03771711083715354,
+        -853.1168150970873
+      ],
+      [
+        -0.03771711083715354,
+        1.0211692615257073,
+        71.2789455272648
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 2.115270651879833,
+    "scale_applied": 1.0218655690132927,
+    "translation_x_applied": -853.1168150970873,
+    "translation_y_applied": 71.2789455272648,
+    "matches": 1431,
+    "inliers": 446,
+    "inlier_ratio": 0.3116701607267645
+  },
+  "log53.jpg": {
+    "target": "ducret-autun-t1/log53.jpg",
+    "source_to_target_matrix": [
+      [
+        0.8380042198471409,
+        0.01917876351288992,
+        -116.6305402033488
+      ],
+      [
+        -0.019178763512889933,
+        0.8380042198471409,
+        302.3099901898081
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 1.3110559420269638,
+    "scale_applied": 0.8382236559841881,
+    "translation_x_applied": -116.6305402033488,
+    "translation_y_applied": 302.3099901898081,
+    "matches": 1388,
+    "inliers": 504,
+    "inlier_ratio": 0.3631123919308357
+  },
+  "log54.jpg": {
+    "target": "ducret-autun-t1/log54.jpg",
+    "source_to_target_matrix": [
+      [
+        0.966966117357394,
+        0.028790928125091854,
+        -489.48765198778983
+      ],
+      [
+        -0.028790928125091864,
+        0.966966117357394,
+        292.572728277195
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 1.7054490655235524,
+    "scale_applied": 0.9673946400820803,
+    "translation_x_applied": -489.48765198778983,
+    "translation_y_applied": 292.572728277195,
+    "matches": 1239,
+    "inliers": 311,
+    "inlier_ratio": 0.2510088781275222
+  },
+  "log55.jpg": {
+    "target": "ducret-autun-t1/log55.jpg",
+    "source_to_target_matrix": [
+      [
+        0.872937294470159,
+        -0.042748099333779675,
+        479.05899388305534
+      ],
+      [
+        0.042748099333779675,
+        0.872937294470159,
+        278.4343549425648
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -2.803558312208443,
+    "scale_applied": 0.8739833637281271,
+    "translation_x_applied": 479.05899388305534,
+    "translation_y_applied": 278.4343549425648,
+    "matches": 1342,
+    "inliers": 382,
+    "inlier_ratio": 0.2846497764530551
+  },
+  "log56.jpg": {
+    "target": "ducret-autun-t1/log56.jpg",
+    "source_to_target_matrix": [
+      [
+        0.8694264284878915,
+        0.00772705337358364,
+        433.4093223382679
+      ],
+      [
+        -0.00772705337358364,
+        0.8694264284878915,
+        562.5456941439531
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.509204546441295,
+    "scale_applied": 0.8694607650187839,
+    "translation_x_applied": 433.4093223382679,
+    "translation_y_applied": 562.5456941439531,
+    "matches": 1212,
+    "inliers": 425,
+    "inlier_ratio": 0.35066006600660066
+  },
+  "log57.jpg": {
+    "target": "ducret-autun-t1/log57.jpg",
+    "source_to_target_matrix": [
+      [
+        0.9849704220209449,
+        -0.05440379021519307,
+        382.3914429189075
+      ],
+      [
+        0.05440379021519307,
+        0.9849704220209449,
+        -230.42669029957233
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -3.1614588738346825,
+    "scale_applied": 0.9864717454878761,
+    "translation_x_applied": 382.3914429189075,
+    "translation_y_applied": -230.42669029957233,
+    "matches": 1249,
+    "inliers": 249,
+    "inlier_ratio": 0.19935948759007205
+  },
+  "log58.jpg": {
+    "target": "ducret-autun-t1/log58.jpg",
+    "source_to_target_matrix": [
+      [
+        0.021619264813677184,
+        -1.0190932185128918,
+        4876.440181243839
+      ],
+      [
+        1.0190932185128918,
+        0.021619264813677184,
+        -990.5658721010628
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.78469718372318,
+    "scale_applied": 1.0193225106069466,
+    "translation_x_applied": 4876.440181243839,
+    "translation_y_applied": -990.5658721010628,
+    "matches": 1192,
+    "inliers": 266,
+    "inlier_ratio": 0.2231543624161074
+  },
+  "log59.jpg": {
+    "target": "ducret-autun-t1/log59.jpg",
+    "source_to_target_matrix": [
+      [
+        0.8821669145859675,
+        -0.05994655066153034,
+        863.3842442145142
+      ],
+      [
+        0.05994655066153034,
+        0.8821669145859675,
+        259.53417772269495
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -3.887486707456147,
+    "scale_applied": 0.8842013651461647,
+    "translation_x_applied": 863.3842442145142,
+    "translation_y_applied": 259.53417772269495,
+    "matches": 1343,
+    "inliers": 607,
+    "inlier_ratio": 0.45197319434102756
+  },
+  "log6.jpg": {
+    "target": "ducret-autun-t1/log6.jpg",
+    "source_to_target_matrix": [
+      [
+        0.03303303868742732,
+        -1.0317233316463914,
+        4424.448672512291
+      ],
+      [
+        1.0317233316463914,
+        0.03303303868742732,
+        -651.2714583797506
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.16616789158367,
+    "scale_applied": 1.0322520112397238,
+    "translation_x_applied": 4424.448672512291,
+    "translation_y_applied": -651.2714583797506,
+    "matches": 1307,
+    "inliers": 245,
+    "inlier_ratio": 0.1874521805661821
+  },
+  "log60.jpg": {
+    "target": "ducret-autun-t1/log60.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0195965169497394,
+        -0.018955469122508912,
+        75.1127554198871
+      ],
+      [
+        0.018955469122508912,
+        1.0195965169497394,
+        -44.21184081373758
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -1.0650715857558772,
+    "scale_applied": 1.0197727036872946,
+    "translation_x_applied": 75.1127554198871,
+    "translation_y_applied": -44.21184081373758,
+    "matches": 1491,
+    "inliers": 731,
+    "inlier_ratio": 0.4902749832327297
+  },
+  "log61.jpg": {
+    "target": "ducret-autun-t1/log61.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.12439388710207698,
+        -1.062138400091545,
+        4764.4671419470815
+      ],
+      [
+        1.062138400091545,
+        -0.12439388710207698,
+        -1123.1818124022798
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -96.67984879774082,
+    "scale_applied": 1.0693978773578108,
+    "translation_x_applied": 4764.4671419470815,
+    "translation_y_applied": -1123.1818124022798,
+    "matches": 1076,
+    "inliers": 573,
+    "inlier_ratio": 0.5325278810408922
+  },
+  "log62.jpg": {
+    "target": "ducret-autun-t1/log62.jpg",
+    "source_to_target_matrix": [
+      [
+        1.1062380266454805,
+        -0.03715345172088684,
+        -150.23780808821573
+      ],
+      [
+        0.03715345172088684,
+        1.1062380266454805,
+        -514.0694183668793
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -1.9235789024069336,
+    "scale_applied": 1.1068617576604873,
+    "translation_x_applied": -150.23780808821573,
+    "translation_y_applied": -514.0694183668793,
+    "matches": 1243,
+    "inliers": 241,
+    "inlier_ratio": 0.19388576025744167
+  },
+  "log63.jpg": {
+    "target": "ducret-autun-t1/log63.jpg",
+    "source_to_target_matrix": [
+      [
+        0.08475655709584186,
+        -1.036095011051789,
+        4310.7784419882655
+      ],
+      [
+        1.036095011051789,
+        0.08475655709584186,
+        -1192.5096451137015
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -85.32339804165669,
+    "scale_applied": 1.0395559368774474,
+    "translation_x_applied": 4310.7784419882655,
+    "translation_y_applied": -1192.5096451137015,
+    "matches": 1453,
+    "inliers": 345,
+    "inlier_ratio": 0.23743977976600136
+  },
+  "log64.jpg": {
+    "target": "ducret-autun-t1/log64.jpg",
+    "source_to_target_matrix": [
+      [
+        0.029016697130926507,
+        -0.7942643563770615,
+        3661.5119612413323
+      ],
+      [
+        0.7942643563770614,
+        0.029016697130926503,
+        -322.4452496546819
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -87.90775548682554,
+    "scale_applied": 0.7947942101723287,
+    "translation_x_applied": 3661.5119612413323,
+    "translation_y_applied": -322.4452496546819,
+    "matches": 1403,
+    "inliers": 500,
+    "inlier_ratio": 0.3563791874554526
+  },
+  "log65.jpg": {
+    "target": "ducret-autun-t1/log65.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0631050924087366,
+        0.01644642786987814,
+        -547.2845327222924
+      ],
+      [
+        -0.01644642786987814,
+        1.0631050924087366,
+        -291.3219452408439
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.8863053607876006,
+    "scale_applied": 1.0632322994036005,
+    "translation_x_applied": -547.2845327222924,
+    "translation_y_applied": -291.3219452408439,
+    "matches": 1327,
+    "inliers": 290,
+    "inlier_ratio": 0.2185380557648832
+  },
+  "log69.jpg": {
+    "target": "ducret-autun-t1/log69.jpg",
+    "source_to_target_matrix": [
+      [
+        1.1638703649015223,
+        0.07168823869769454,
+        -767.3361347233513
+      ],
+      [
+        -0.07168823869769453,
+        1.1638703649015225,
+        -188.02335488556037
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 3.5246630794581018,
+    "scale_applied": 1.166076082364946,
+    "translation_x_applied": -767.3361347233513,
+    "translation_y_applied": -188.02335488556037,
+    "matches": 1322,
+    "inliers": 439,
+    "inlier_ratio": 0.3320726172465961
+  },
+  "log7.jpg": {
+    "target": "ducret-autun-t1/log7.jpg",
+    "source_to_target_matrix": [
+      [
+        0.02236495499348628,
+        -1.0777399436022572,
+        4503.180129513153
+      ],
+      [
+        1.0777399436022572,
+        0.02236495499348628,
+        -699.5378208901986
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -88.81118479027874,
+    "scale_applied": 1.077971974240359,
+    "translation_x_applied": 4503.180129513153,
+    "translation_y_applied": -699.5378208901986,
+    "matches": 1476,
+    "inliers": 463,
+    "inlier_ratio": 0.3136856368563686
+  },
+  "log70.jpg": {
+    "target": "ducret-autun-t1/log70.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0383567496653472,
+        0.06412445031676058,
+        -64.44209570079329
+      ],
+      [
+        -0.06412445031676058,
+        1.0383567496653472,
+        754.66926588085
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 3.5338532318805145,
+    "scale_applied": 1.0403348906501269,
+    "translation_x_applied": -64.44209570079329,
+    "translation_y_applied": 754.66926588085,
+    "matches": 1248,
+    "inliers": 266,
+    "inlier_ratio": 0.21314102564102563
+  },
+  "log71.jpg": {
+    "target": "ducret-autun-t1/log71.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.1400969267540246,
+        0.8344089872376684,
+        1997.5181568029632
+      ],
+      [
+        -0.8344089872376685,
+        -0.14009692675402458,
+        4089.3999373914994
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 99.53104050864457,
+    "scale_applied": 0.8460883564196555,
+    "translation_x_applied": 1997.5181568029632,
+    "translation_y_applied": 4089.3999373914994,
+    "matches": 1397,
+    "inliers": 267,
+    "inlier_ratio": 0.19112383679312814
+  },
+  "log72.jpg": {
+    "target": "ducret-autun-t1/log72.jpg",
+    "source_to_target_matrix": [
+      [
+        0.24010038903059003,
+        -0.9823639265119912,
+        3958.964395221503
+      ],
+      [
+        0.9823639265119912,
+        0.24010038903059003,
+        -929.1599323033854
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -76.26554872899746,
+    "scale_applied": 1.0112799221405997,
+    "translation_x_applied": 3958.964395221503,
+    "translation_y_applied": -929.1599323033854,
+    "matches": 1466,
+    "inliers": 362,
+    "inlier_ratio": 0.24693042291950887
+  },
+  "log73.jpg": {
+    "target": "ducret-autun-t1/log73.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.10137829711017218,
+        -1.070166469141875,
+        4310.043542799667
+      ],
+      [
+        1.070166469141875,
+        -0.10137829711017221,
+        -466.8725149216382
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -95.41155636219433,
+    "scale_applied": 1.0749575948848151,
+    "translation_x_applied": 4310.043542799667,
+    "translation_y_applied": -466.8725149216382,
+    "matches": 1294,
+    "inliers": 459,
+    "inlier_ratio": 0.3547140649149923
+  },
+  "log74.jpg": {
+    "target": "ducret-autun-t1/log74.jpg",
+    "source_to_target_matrix": [
+      [
+        0.9889629866303132,
+        0.227280238440378,
+        -1127.1580430341396
+      ],
+      [
+        -0.227280238440378,
+        0.9889629866303132,
+        849.0515491207586
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 12.942791021555234,
+    "scale_applied": 1.0147433644573707,
+    "translation_x_applied": -1127.1580430341396,
+    "translation_y_applied": 849.0515491207586,
+    "matches": 1356,
+    "inliers": 177,
+    "inlier_ratio": 0.13053097345132744
+  },
+  "log75.jpg": {
+    "target": "ducret-autun-t1/log75.jpg",
+    "source_to_target_matrix": [
+      [
+        1.0749530523653301,
+        -0.02633959103847757,
+        330.73111680696525
+      ],
+      [
+        0.02633959103847757,
+        1.0749530523653301,
+        -304.87166964834523
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -1.4036384905091512,
+    "scale_applied": 1.0752757036433096,
+    "translation_x_applied": 330.73111680696525,
+    "translation_y_applied": -304.87166964834523,
+    "matches": 1337,
+    "inliers": 566,
+    "inlier_ratio": 0.42333582647718776
+  },
+  "log76.jpg": {
+    "target": "ducret-autun-t1/log76.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.017458714306882395,
+        -1.0605301421276443,
+        4850.12543589262
+      ],
+      [
+        1.0605301421276443,
+        -0.017458714306882395,
+        -291.7334025031141
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -90.94313236103335,
+    "scale_applied": 1.0606738372688047,
+    "translation_x_applied": 4850.12543589262,
+    "translation_y_applied": -291.7334025031141,
+    "matches": 1446,
+    "inliers": 370,
+    "inlier_ratio": 0.25587828492392806
+  },
+  "log77.jpg": {
+    "target": "ducret-autun-t1/log77.jpg",
+    "source_to_target_matrix": [
+      [
+        1.3269471876029617,
+        -0.004129508811549409,
+        -983.3452446543743
+      ],
+      [
+        0.004129508811549409,
+        1.3269471876029617,
+        -1021.2321111590691
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -0.17830601305147556,
+    "scale_applied": 1.3269536131796147,
+    "translation_x_applied": -983.3452446543743,
+    "translation_y_applied": -1021.2321111590691,
+    "matches": 1361,
+    "inliers": 516,
+    "inlier_ratio": 0.37913299044819987
+  },
+  "log78.jpg": {
+    "target": "ducret-autun-t1/log78.jpg",
+    "source_to_target_matrix": [
+      [
+        0.04597321023258316,
+        -1.0684550413581149,
+        4688.78159547231
+      ],
+      [
+        1.0684550413581149,
+        0.04597321023258316,
+        -1232.7228970259869
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -87.53621157925537,
+    "scale_applied": 1.069443645762908,
+    "translation_x_applied": 4688.78159547231,
+    "translation_y_applied": -1232.7228970259869,
+    "matches": 1408,
+    "inliers": 328,
+    "inlier_ratio": 0.23295454545454544
+  },
+  "log79.jpg": {
+    "target": "ducret-autun-t1/log79.jpg",
+    "source_to_target_matrix": [
+      [
+        0.8722627092777653,
+        -0.01884590943166713,
+        888.3377497091542
+      ],
+      [
+        0.01884590943166713,
+        0.8722627092777653,
+        179.74396125754538
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -1.2377269923487402,
+    "scale_applied": 0.8724662757372882,
+    "translation_x_applied": 888.3377497091542,
+    "translation_y_applied": 179.74396125754538,
+    "matches": 1365,
+    "inliers": 665,
+    "inlier_ratio": 0.48717948717948717
+  },
+  "log8.jpg": {
+    "target": "ducret-autun-t1/log8.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.030807300709095844,
+        -0.9569522004227342,
+        4344.30672945659
+      ],
+      [
+        0.9569522004227342,
+        -0.030807300709095844,
+        -389.0877577908859
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": -91.84389449630096,
+    "scale_applied": 0.9574479639494219,
+    "translation_x_applied": 4344.30672945659,
+    "translation_y_applied": -389.0877577908859,
+    "matches": 1303,
+    "inliers": 256,
+    "inlier_ratio": 0.19646968534151957
+  },
+  "log80.jpg": {
+    "target": "ducret-autun-t1/log80.jpg",
+    "source_to_target_matrix": [
+      [
+        -0.0604036330891611,
+        1.3305581593738707,
+        1188.3818878797538
+      ],
+      [
+        -1.3305581593738707,
+        -0.060403633089161114,
+        5380.899185657328
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 92.59928409880875,
+    "scale_applied": 1.3319285320041585,
+    "translation_x_applied": 1188.3818878797538,
+    "translation_y_applied": 5380.899185657328,
+    "matches": 1274,
+    "inliers": 269,
+    "inlier_ratio": 0.21114599686028257
+  },
+  "log81.jpg": {
+    "target": "ducret-autun-t1/log81.jpg",
+    "source_to_target_matrix": [
+      [
+        0.061181355475103,
+        0.765027799576834,
+        1069.9852013043999
+      ],
+      [
+        -0.7650277995768339,
+        0.06118135547510301,
+        3504.2460042908083
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 85.42763172336625,
+    "scale_applied": 0.7674703201969073,
+    "translation_x_applied": 1069.9852013043999,
+    "translation_y_applied": 3504.2460042908083,
+    "matches": 1418,
+    "inliers": 557,
+    "inlier_ratio": 0.3928067700987306
+  },
+  "log82.jpg": {
+    "target": "ducret-autun-t1/log82.jpg",
+    "source_to_target_matrix": [
+      [
+        0.7976759280202078,
+        0.007970099879910833,
+        700.6386247117938
+      ],
+      [
+        -0.007970099879910833,
+        0.7976759280202078,
+        780.5748129283493
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 0.5724604114553625,
+    "scale_applied": 0.7977157442566841,
+    "translation_x_applied": 700.6386247117938,
+    "translation_y_applied": 780.5748129283493,
+    "matches": 1412,
+    "inliers": 536,
+    "inlier_ratio": 0.37960339943342775
+  },
+  "log9.jpg": {
+    "target": "ducret-autun-t1/log9.jpg",
+    "source_to_target_matrix": [
+      [
+        0.9352318904485828,
+        0.04826437564573524,
+        298.91013671457165
+      ],
+      [
+        -0.04826437564573524,
+        0.9352318904485828,
+        579.8950808246809
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "final_rotation_degrees": 2.95423415085669,
+    "scale_applied": 0.936476448645935,
+    "translation_x_applied": 298.91013671457165,
+    "translation_y_applied": 579.8950808246809,
+    "matches": 1398,
+    "inliers": 267,
+    "inlier_ratio": 0.19098712446351931
+  }
+}
