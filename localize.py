@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ducret-Autun known-parent localization with fresh cross-correlation and native refinement."""
+"""Ducret-Autun known-parent localization with vanilla masked-feature cross-correlation."""
 
 from __future__ import annotations
 
@@ -11,7 +11,7 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 
-import ducret_autun_retrieval_clean_v3 as core
+import retrieve as core
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 
@@ -30,7 +30,6 @@ class Config:
     source_long_side: int = 576
     angles: tuple[int, ...] = (0, 90, 180, 270)
     scales: tuple[float, ...] = (0.30, 0.40)
-    min_valid_fraction: float = 0.85
     source_crop_pad_fraction: float = 0.02
     refinement_scale_start: float = 0.85
     refinement_scale_stop: float = 1.15
@@ -72,7 +71,6 @@ class Anchor:
 class Refinement:
     box_xyxy: tuple[int, int, int, int]
     score: float
-    valid_fraction: float
     scale_multiplier: float
 
 
@@ -143,7 +141,7 @@ def build_coarse_source(
         "reduction": encoder.reduction,
     }
     sizes = torch.tensor([[support_h, support_w]], dtype=torch.long, device=encoder.device)
-    return core.Gallery([meta], features.contiguous(), feature_masks.contiguous(), sizes)
+    return core.Gallery([meta], features.contiguous(), sizes)
 
 
 # =============================================================================
@@ -347,31 +345,20 @@ def refine(
             continue
 
         source_crop = source.feature[:, y:y + height, x:x + width]
-        source_mask = source.mask[:, y:y + height, x:x + width] > 0.5
-        overlap = (mask > 0.5) & source_mask
-        query_count = float((mask > 0.5).sum().item())
-        overlap_count = float(overlap.sum().item())
-        valid_fraction = overlap_count / max(1.0, query_count)
-        if valid_fraction < cfg.min_valid_fraction:
-            continue
-
-        score = float(
-            (
-                (feature * source_crop * overlap.float()).sum()
-                / max(1.0, overlap_count)
-            ).item()
-        )
+        # Both tensors are already zero outside their masks. Refinement therefore
+        # uses ordinary masked-feature correlation, normalized only by query area.
+        query_area = mask.sum().clamp_min(1.0)
+        score = float(((feature * source_crop).sum() / query_area).item())
         candidate = Refinement(
             box_xyxy=core.feature_box_to_source_pixels(source.meta, x, y, width, height),
             score=score,
-            valid_fraction=valid_fraction,
             scale_multiplier=multiplier,
         )
         if best is None or candidate.score > best.score:
             best = candidate
 
     if best is None:
-        raise RuntimeError("no valid anchored refinement scale")
+        raise RuntimeError("no geometrically valid anchored refinement scale")
     return best
 
 
@@ -388,14 +375,15 @@ def run(cfg: Config) -> None:
     queries = core.query_records(cfg.query_dir)
     sources = {record.source_id: record for record in core.source_records(cfg.source_dir)}
     truth = manifest_boxes(cfg.manifest_path)
-    scorer = core.FFTScorer(encoder.device, cfg.min_valid_fraction, gallery_batch_size=1)
+    scorer = core.FFTScorer(encoder.device, gallery_batch_size=1)
 
     log.write(
         f"localization: queries={len(queries)} model={cfg.model_name} feature_index={cfg.feature_index} "
         f"stride={encoder.reduction} channels={encoder.channels} device={encoder.device}"
     )
     log.write(
-        f"coarse_angles={cfg.angles} coarse_scales={cfg.scales} min_valid={cfg.min_valid_fraction} "
+        f"coarse_angles={cfg.angles} coarse_scales={cfg.scales} "
+        "score=vanilla_masked_feature_cross_correlation "
         f"refinement_scales={cfg.refinement_scale_start}:"
         f"{cfg.refinement_scale_stop}:{cfg.refinement_scale_step}"
     )

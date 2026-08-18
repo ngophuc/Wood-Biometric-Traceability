@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Default Ducret-Autun board-to-log retrieval by masked FFT feature correlation."""
+"""Default Ducret-Autun board-to-log retrieval by vanilla FFT cross-correlation of masked features."""
 
 from __future__ import annotations
 
@@ -35,7 +35,6 @@ class Config:
     source_long_side: int = 576
     angles: tuple[int, ...] = (0, 90, 180, 270)
     scales: tuple[float, ...] = (0.30, 0.40)
-    min_valid_fraction: float = 0.85
     source_crop_pad_fraction: float = 0.02
     source_encode_batch_size: int = 8
     gallery_batch_size: int = 256
@@ -61,14 +60,13 @@ class QueryRecord:
 class Gallery:
     meta: list[dict[str, int | str]]
     features: torch.Tensor
-    masks: torch.Tensor
     sizes: torch.Tensor
 
 
 @dataclass
 class QueryBank:
     features: torch.Tensor
-    masks: torch.Tensor
+    areas: torch.Tensor
     sizes: torch.Tensor
     meta: list[dict[str, float | int]]
 
@@ -81,7 +79,6 @@ class Hit:
     kernel_index: int
     angle: int
     scale: float
-    valid_fraction: float
     x_feat: int
     y_feat: int
     support_h: int
@@ -328,7 +325,6 @@ def build_gallery(cfg: Config, encoder: Encoder) -> Gallery:
     records = source_records(cfg.source_dir)
     meta: list[dict[str, int | str]] = []
     feature_rows: list[torch.Tensor] = []
-    mask_rows: list[torch.Tensor] = []
     size_rows: list[tuple[int, int]] = []
 
     for start in tqdm(range(0, len(records), cfg.source_encode_batch_size), desc="source gallery"):
@@ -387,13 +383,11 @@ def build_gallery(cfg: Config, encoder: Encoder) -> Gallery:
                 "reduction": encoder.reduction,
             })
             feature_rows.append(features[i].contiguous())
-            mask_rows.append(feature_masks[i].contiguous())
             size_rows.append((support_h, support_w))
 
     return Gallery(
         meta=meta,
         features=torch.stack(feature_rows).contiguous(),
-        masks=torch.stack(mask_rows).contiguous(),
         sizes=torch.tensor(size_rows, dtype=torch.long, device=encoder.device),
     )
 
@@ -445,9 +439,10 @@ def build_query_bank(query: QueryRecord, cfg: Config, encoder: Encoder) -> Query
         sizes.append((support_h, support_w))
         meta.append({"angle": int(item["angle"]), "scale": float(item["scale"])})
 
+    areas = feature_masks.float().sum(dim=(1, 2, 3)).clamp_min(1.0)
     return QueryBank(
         features,
-        feature_masks,
+        areas.contiguous(),
         torch.tensor(sizes, dtype=torch.long, device=encoder.device),
         meta,
     )
@@ -471,18 +466,23 @@ def feature_box_to_source_pixels(
 
 
 # =============================================================================
-# Masked FFT cross-correlation
+# Vanilla FFT cross-correlation of masked features
 # =============================================================================
 
 class FFTScorer:
+    """Dense FFT cross-correlation with geometric in-bounds validity only.
+
+    Source and query masks have already been applied during feature conditioning,
+    so invalid feature cells are zero. Scoring does not correlate masks, compute
+    overlap ratios, or apply an overlap threshold.
+    """
+
     def __init__(
         self,
         device: torch.device,
-        min_valid_fraction: float,
         gallery_batch_size: int,
     ):
         self.device = device
-        self.min_valid_fraction = min_valid_fraction
         self.gallery_batch_size = gallery_batch_size
 
     def rank(self, gallery: Gallery, bank: QueryBank) -> list[Hit]:
@@ -492,7 +492,6 @@ class FFTScorer:
             stop = min(len(gallery.meta), start + batch_size)
             result = self._reduce_batch(
                 gallery.features[start:stop],
-                gallery.masks[start:stop],
                 gallery.sizes[start:stop],
                 bank,
                 start,
@@ -508,19 +507,17 @@ class FFTScorer:
         peak_y = torch.cat([x[3] for x in reduced])
         scores = torch.cat([x[4] for x in reduced])
         support_sizes = torch.cat([x[5] for x in reduced])
-        overlap = torch.cat([x[6] for x in reduced])
 
         order = torch.argsort(scores, descending=True)
         source_indices, kernel_indices = source_indices[order], kernel_indices[order]
         peak_x, peak_y, scores = peak_x[order], peak_y[order], scores[order]
-        support_sizes, overlap = support_sizes[order], overlap[order]
+        support_sizes = support_sizes[order]
 
         source_cpu = source_indices.cpu().numpy()
         kernel_cpu = kernel_indices.cpu().numpy()
         x_cpu, y_cpu = peak_x.cpu().numpy(), peak_y.cpu().numpy()
         score_cpu = scores.float().cpu().numpy()
         size_cpu = support_sizes.cpu().numpy()
-        overlap_cpu = overlap.float().cpu().numpy()
 
         hits: list[Hit] = []
         for i in range(len(source_cpu)):
@@ -537,7 +534,6 @@ class FFTScorer:
                 kernel_index=kernel_index,
                 angle=int(kernel_meta["angle"]),
                 scale=float(kernel_meta["scale"]),
-                valid_fraction=float(overlap_cpu[i]),
                 x_feat=x,
                 y_feat=y,
                 support_h=support_h,
@@ -549,7 +545,6 @@ class FFTScorer:
     def _reduce_batch(
         self,
         features: torch.Tensor,
-        masks: torch.Tensor,
         source_sizes: torch.Tensor,
         bank: QueryBank,
         source_offset: int,
@@ -558,31 +553,16 @@ class FFTScorer:
         if out_h < 1 or out_w < 1:
             return None
 
-        # The feature response and mask overlap use the same FFT correlation path.
         response = self._correlate(features, bank.features, (out_h, out_w))
-        overlap = self._correlate(masks, bank.masks, (out_h, out_w))
-        areas = (
-            bank.masks.float()
-            .sum(dim=(1, 2, 3))
-            .clamp_min(1.0)
-            .view(1, -1, 1, 1)
-        )
-        response = response / areas
-        overlap_fraction = overlap / areas
-        valid = self._valid_positions(
-            source_sizes, bank.sizes, out_h, out_w
-        ) & (overlap_fraction >= self.min_valid_fraction)
+        response = response / bank.areas.view(1, -1, 1, 1)
+
+        valid = self._valid_positions(source_sizes, bank.sizes, out_h, out_w)
         response = response.masked_fill(~valid, float("-inf"))
 
         flat = response.flatten(2)
         kernel_peaks, flat_index = flat.max(dim=2)
         peak_y = torch.div(flat_index, out_w, rounding_mode="floor")
         peak_x = flat_index - peak_y * out_w
-        peak_overlap = (
-            overlap_fraction.flatten(2)
-            .gather(2, flat_index.unsqueeze(-1))
-            .squeeze(-1)
-        )
 
         source_scores, best_kernel = kernel_peaks.max(dim=1)
         local_source = torch.where(torch.isfinite(source_scores))[0]
@@ -596,7 +576,6 @@ class FFTScorer:
             peak_y[local_source, selected_kernel],
             source_scores[local_source],
             bank.sizes[selected_kernel],
-            peak_overlap[local_source, selected_kernel],
         )
 
     def _output_size(
@@ -659,7 +638,7 @@ def run(cfg: Config) -> None:
     encoder = Encoder(cfg.model_name, cfg.feature_index)
     gallery, gallery_preproc_sec = timed(lambda: build_gallery(cfg, encoder))
     queries = query_records(cfg.query_dir)
-    scorer = FFTScorer(encoder.device, cfg.min_valid_fraction, cfg.gallery_batch_size)
+    scorer = FFTScorer(encoder.device, cfg.gallery_batch_size)
 
     log.write(
         f"gallery: sources={len(gallery.meta)} preproc={gallery_preproc_sec:.3f}s "
@@ -669,7 +648,7 @@ def run(cfg: Config) -> None:
     )
     log.write(
         f"queries={len(queries)} angles={cfg.angles} scales={cfg.scales} "
-        f"min_valid={cfg.min_valid_fraction}"
+        "score=vanilla_masked_feature_cross_correlation"
     )
 
     ranks: list[int] = []
