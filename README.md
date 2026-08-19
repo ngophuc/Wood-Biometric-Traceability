@@ -1,24 +1,26 @@
 # README.md
 
-## Dependencies
+## Requirements
 
-`Python 3.10.20` 
+Conda
 
-`torch==2.5.1` 
-
-`torchvision==0.20.1`
-
-`numpy==1.26.4`
-
-`timm==1.0.26`
-
-`pillow==12.2.0`
-
-`tqdm==4.67.3`
+Machine with a GPU
 
 ## Installation
 
-Download the folder and ensure the above dependencies are available. The programs can be run from inside this folder.
+Clone the repo and run the following from inside:
+
+`conda env create -p ./spatial -f requirements.yml`
+
+then activate the virtual environment using:
+
+`conda activate ./spatial`
+
+The codes `retrieve.py`, `localize.py` and `localize_classical.py` are standalone and can be run independently. To run in default config, simply run without CLI parameters. For example,
+
+`python retrieve.py`
+
+Tweaking algorithm parameters is possible inside the Config class inside each code. 
 
 ## Data
 
@@ -41,5 +43,3 @@ Each file is named explicitly as per its purpose.
 `localize_classical.py` does the same as `localize.py` except using the classical baseline method inspired from Xiaolin Li et al.
 
 `virtual_saw.py` makes independent virtual board cuts for experiments. To keep working with the authors’ virtual cut, avoid running this program and merely use it as reference.
-
-Every code is run without having any CLI parameters. For example, `python3 retrieve.py` to obtain results for board-to-log retrieval. Running as is uses default arguments. Tweaking parameters is possible inside the Config class inside each code. 
