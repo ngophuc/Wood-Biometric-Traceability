@@ -1,5 +1,4 @@
-Description
-===========
+## Description
 
 This repository contains the source code of method described in the paper: **Deep Learning Approach for Board-to-log Biometric Traceability by S. Shirodkar, D. Martinetto, P. Ngo, F. Longuetaud, F. Verjat and G. Pot**. 
 
